@@ -1,4 +1,4 @@
-[Link](https://codeforces.com/contest/1768/problem/A)
+// https://codeforces.com/contest/1768/problem/A
 
 #include <bits/stdc++.h>
 #define fast ios_base::sync_with_stdio(true); cin.tie(NULL); cout.tie(NULL)
